@@ -1,0 +1,19 @@
+'''
+UniversalToolbox/
+├── src/
+│   ├── __init__.py
+│   ├── main_app.py      # 核心应用类和 UI 布局
+│   ├── config.py        # 路径、工具函数和全局配置
+│   └── plugins/         # 插件模块目录
+│       ├── __init__.py
+│       ├── hex_converter.py  # 插件示例 1
+│       └── uds_viewer.py     # 插件示例 2
+│
+├── scripts/             # 可通过 Script Browser 运行的脚本目录
+│   └── test_script.py   # 示例脚本
+│
+└── toolbox_gui.py       # 启动文件 (入口)
+'''
+
+HJNFBABN7SA434347
+
